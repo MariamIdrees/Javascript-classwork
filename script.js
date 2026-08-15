@@ -13,3 +13,23 @@ let b = parseInt(prompt("Enter your second number"));
 alert(a+b);
 
 console.log(a+b)
+
+
+let systemName = (prompt("who are you?"))
+if (systemNam === "jennifer" || systemName === "mariam"){
+     alert ("you can enter the STEM lab")}
+
+     else alert ("you do not have access to the STEM lab")
+
+
+
+//      let userAccess = (prompt ("what are you wearing?"));
+
+
+//      if (userAccess === "shoes") {
+//      alert("you can enter the hub")};
+//  else {
+//     alert ("you cannot enter")
+//   }
+
+   
